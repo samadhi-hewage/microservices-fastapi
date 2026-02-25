@@ -18,7 +18,7 @@ Client → API Gateway (Port 8000) → Student Service (Port 8001)
 ## How to Run
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/microservices-fastapi.git
+git clone https://github.com/samadhi-hewage/microservices-fastapi.git
 cd microservices-fastapi
 
 ### 2. Set up virtual environment
